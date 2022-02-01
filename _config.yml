@@ -10,22 +10,22 @@ url: https://github.com/eineforget/eineforget.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: '/'
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Aidar
+copyright: 2022
 
 share:
-  facebook: true
-  twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
+  facebook: false
+  twitter: false
+  gplus: false
+  linkedin: false
+  pinterest: false
   email: true
-
+  instagram: true
 social:
   github: streetturtle
   stackoverflow: ''
   linkedin:
-  instagram: ''
+  instagram: 'instagram.com/eineforget'
   lastfm: ''
   rss: feed.xml
 
